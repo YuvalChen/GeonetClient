@@ -1,6 +1,6 @@
 import { GeonetClientPage } from './app.po';
 
-describe('geonet-client App', () => {
+describe('geonet-client App', function() {
   let page: GeonetClientPage;
 
   beforeEach(() => {
